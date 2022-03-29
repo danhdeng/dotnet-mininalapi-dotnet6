@@ -1,0 +1,1 @@
+# dotnet-mininalapi-dotnet6
